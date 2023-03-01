@@ -1,0 +1,18 @@
+git add .
+git commit -m
+git push
+git branch
+git checkout
+git clone
+pwd
+cd
+vi/vim
+echo
+cat
+rmdir
+mkdir
+rm
+mv
+cp
+ls -a
+
